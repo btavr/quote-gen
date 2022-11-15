@@ -4,6 +4,6 @@ https://www.freecodecamp.org/learn/front-end-development-libraries/front-end-dev
 
 Please check it out at: https://btavr.github.io/quote-gen/
 
-```bash
-pwd
+```powershel
+az login
 ```
